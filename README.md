@@ -1,3 +1,5 @@
+# The very first serious vulnerability in Blockchain and how to get the public key Bitcoin ECDSA RSZ value from the RawTX file
+
 <p>In this article, we will talk about extracting signature values&nbsp;&nbsp;<code>ECDSA R, S, Z</code>&nbsp;​​from the Bitcoin blockchain, but first, let’s remember the very first serious vulnerability in the blockchain transaction that was discovered by&nbsp;&nbsp;Niels&nbsp;<a href="https://github.com/tcatm" target="_blank" rel="noreferrer noopener">Schneider</a>&nbsp;&nbsp;(&nbsp;<code>Nils Schneider</code>&nbsp;<em>aka</em>&nbsp;&nbsp;tcatm&nbsp;&nbsp;<a href="https://github.com/tcatm" target="_blank" rel="noreferrer noopener"><strong>)</strong></a></p>
 <p>Bitcoin developer and owner&nbsp;&nbsp;<em>of «BitcoinWatch»</em>&nbsp;&nbsp;&amp;&nbsp;&nbsp;<em>«BitcoinCharts».</em></p>
 <figure class="wp-block-image"><img title="4.1 History of dangerous random attacks on Bitcoin" src="./The very first serious vulnerability in Blockchain and how to get the public key Bitcoin ECDSA RSZ value from the RawTX file - «CRYPTO DEEP TECH»_files/20d6748c4bdd5e28ada4e9d06b9e8d35.png" alt="4.1 History of dangerous random attacks on Bitcoin"><figcaption>4.1 History of dangerous random attacks on Bitcoin</figcaption></figure>
@@ -102,3 +104,12 @@ hex:  c477f9f65c22cce20657faa5b2d1d8122336f851a508a1ed04e479c34985bf96</code></p
 <p class="has-vivid-cyan-blue-color has-text-color"><strong>Telegram:&nbsp;&nbsp;<a href="https://t.me/cryptodeeptech" target="_blank" rel="noreferrer noopener">https://t.me/cryptodeeptech</a></strong></p>
 <p class="has-vivid-cyan-blue-color has-text-color"><strong>Video:&nbsp;&nbsp;<a href="https://youtu.be/BYd-cuFRZmM" target="_blank" rel="noreferrer noopener">https://youtu.be/BYd-cuFRZmM</a></strong></p>
 <p><strong><a href="https://cryptodeeptech.ru/break-ecdsa-cryptography">Source: https://cryptodeeptech.ru/break-ecdsa-cryptography</a></strong></p>
+
+---
+
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+
