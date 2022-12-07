@@ -110,6 +110,6 @@ hex:  c477f9f65c22cce20657faa5b2d1d8122336f851a508a1ed04e479c34985bf96</code></p
 
 |  | Donation Address |
 | --- | --- |
-| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __BTC__ | 1Lw2gTnMpxRUNBU85Hg4ruTwnpUPKdf3nV |
 | ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
 
